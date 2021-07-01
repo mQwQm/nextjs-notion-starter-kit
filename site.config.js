@@ -7,8 +7,8 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '終魚的記事本',
-  domain: 'notion.allstar.one',
+  name: null,
+  domain: null,
   author: '終魚',
 
   // open graph metadata (optional)
