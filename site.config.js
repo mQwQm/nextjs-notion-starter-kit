@@ -12,9 +12,9 @@ module.exports = {
   author: '終魚',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: null,
+  socialImageTitle: null,
+  socialImageSubtitle: null,
 
   // social usernames (optional)
   twitter: null,
